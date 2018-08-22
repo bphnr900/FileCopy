@@ -1,0 +1,6 @@
+C:\Users\bphnr\source\repos\FileCopy\FileCopy\bin\Release\FileCopy.exe.config
+C:\Users\bphnr\source\repos\FileCopy\FileCopy\bin\Release\FileCopy.exe
+C:\Users\bphnr\source\repos\FileCopy\FileCopy\bin\Release\FileCopy.pdb
+C:\Users\bphnr\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.csproj.CoreCompileInputs.cache
+C:\Users\bphnr\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.exe
+C:\Users\bphnr\source\repos\FileCopy\FileCopy\obj\Release\FileCopy.pdb

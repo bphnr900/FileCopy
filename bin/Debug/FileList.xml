@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- コピー対象のディレクトリ -->
+<Folders>
+  <Folder id="001">
+    <FolderName>test001</FolderName>
+    <SourceDirectory>C:\Users\bphnr\Documents\workspace\Sample\before001</SourceDirectory>
+    <DestinationDirectory>C:\Users\bphnr\Documents\workspace\Sample\after001</DestinationDirectory>
+  </Folder>
+  <Folder id="002">
+    <FolderName>test002</FolderName>
+    <SourceDirectory>C:\Users\bphnr\Documents\workspace\Sample\before002</SourceDirectory>
+    <DestinationDirectory>C:\Users\bphnr\Documents\workspace\Sample\after002</DestinationDirectory>
+  </Folder>
+  <Folder id="003">
+    <FolderName>test003</FolderName>
+    <SourceDirectory>C:\Users\bphnr\Documents\workspace\Sample\before003</SourceDirectory>
+    <DestinationDirectory>C:\Users\bphnr\Documents\workspace\Sample\after003</DestinationDirectory>
+  </Folder>
+</Folders>
